@@ -38,7 +38,9 @@ An IoT-based security prototype designed to detect suspicious activity and poten
 
 ## Internship Availability
 
-Seeking a 6-month IT internship from February 2027 to July 2027.
+I am currently seeking a 24-week IT internship opportunity from **31 January to 17 July 2027**, preferably in Kedah or Penang, Malaysia.
+
+I am interested in software development, web development, and opportunities to explore other areas of information technology while gaining practical industry experience.
 
 ## Contact
 
